@@ -20,6 +20,3 @@ client.on('messageCreate', message => {
     message.channel.send('Feur !');
   }
 });
-
-// Connecter le bot à Discord avec votre token
-client.login('***');
